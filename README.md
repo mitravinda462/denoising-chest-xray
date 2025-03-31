@@ -5,7 +5,7 @@ Medical imaging is crucial for diagnosing and treating diseases, with chest X-ra
 
 # Methodology
 ![methodology_flowchart](https://github.com/user-attachments/assets/19f44e75-e351-407d-9655-4901277c7ae0)
- Initially,five different types of noises were introduced into the existing dataset of chest X-ray images namely, Gaussian, Impulse, Salt and Pepper, Poisson and Speckle noise. Subsequently, various traditional filtering techniques and deep learning models were applied to restore the images and reduce noise. Finally, the performance of each method was evaluated and compared through comprehensive analysis, using metrics such as PSNR and SSIM to determine the most effective denoising approach.
+<br> Initially,five different types of noises were introduced into the existing dataset of chest X-ray images namely, Gaussian, Impulse, Salt and Pepper, Poisson and Speckle noise. Subsequently, various traditional filtering techniques and deep learning models were applied to restore the images and reduce noise. Finally, the performance of each method was evaluated and compared through comprehensive analysis, using metrics such as PSNR and SSIM to determine the most effective denoising approach.
 
 # Results
 ## Traditional Filters
